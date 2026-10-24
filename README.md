@@ -14,7 +14,7 @@ Deuxième site de candidature : frise interactive, domaines professionnels et ci
 
 Ce dépôt contient le nouvel export statique uniquement. Le [dépôt d’origine](https://github.com/floriansetapro/floriansetapro.github.io) et le [premier site](https://floriansetapro.github.io/) sont conservés séparément.
 
-Le CV PDF sera ajouté après réception du document final de Florian.
+[Télécharger le CV de deux pages](https://floriansetapro.github.io/cv-agent-general/documents/CV_Florian_Seta_Agent_General.pdf). Le document reprend la direction artistique du site avec une police de 12 points au minimum.
 
 ## Mise à jour
 
